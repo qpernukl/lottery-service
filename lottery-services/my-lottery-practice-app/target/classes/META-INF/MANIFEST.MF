@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: shomarimosi
+Build-Jdk: 11.0.1
+Implementation-Title: my-lottery-practice-app
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: lottery
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+
